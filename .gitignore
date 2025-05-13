@@ -1,4 +1,6 @@
 greedx
-greed_scores.txt
+greed
 greed_keys.txt
+greed_config.txt
 *.o
+old_greed.c
